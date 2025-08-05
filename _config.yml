@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
-title: CASCI Lab
+title: CASCI
 description: Complex Adaptive Systems and Computational Intelligence (CASCI) research group at Binghamton University (SUNY) and the Instituto Gulbenkian de Ciência, works on complex systems and network science. We are particularly interested in the informational properties of natural and artificial systems which enable them to adapt, learn, and evolve. This means both understanding how information is fundamental for controlling the behavior and evolutionary capabilities of complex systems, as well as abstracting principles from nature to produce adaptive intelligent systems. This theoretical and applied research agenda focuses on tackling multi-level complexity involved in human health, and is organized in 1) complex networks & systems, 2) computational and systems biology, and 3) computational intelligence.
+url: casci-lab.github.io
+
+include: ['_pages']
